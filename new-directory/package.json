@@ -1,0 +1,26 @@
+{
+  "name": "new-directory",
+  "version": "1.0.2",
+  "description": "pkg for npm lesson",
+  "main": "test.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anna-Myzukina/how-to-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Muzykina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anna-Myzukina/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/Anna-Myzukina/how-to-npm#readme"
+}
